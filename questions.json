@@ -1,0 +1,31 @@
+{
+    "questions": [
+      {
+        "question": "What is 9*2?",
+        "options": [
+          {"text": "20", "correct": false},
+          {"text": "18", "correct": true},
+          {"text": "16", "correct": false},
+          {"text": "13", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the capital  city of rwanda?",
+        "options": [
+          {"text": "kigali", "correct": true},
+          {"text": "sothern-provence", "correct": false},
+          {"text": "east-provence", "correct": false},
+          {"text": "west-provence", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the full word of html?",
+        "options": [
+          {"text": "hypertext-language", "correct": false},
+          {"text": "hypertext mark-up language", "correct": true},
+          {"text": "hypertext mark-up law", "correct": false},
+          {"text": "all", "correct": false}
+        ]
+      }
+    ]
+  }
